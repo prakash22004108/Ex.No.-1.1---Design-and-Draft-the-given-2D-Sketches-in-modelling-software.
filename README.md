@@ -39,7 +39,7 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 
 ## SKETCHS
-![image](/exercise 1 Drawing v2_page-0001.jpg)
+![image](/exercise 1 Drawing v2_page-0001.jpg.png)
 
 
 ## OUTPUT
